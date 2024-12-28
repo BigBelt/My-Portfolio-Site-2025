@@ -5,7 +5,7 @@ My updated portfolio site for 2025, made using **HTML** and **CSS**.
 ## **Inspiration**
 This site is my own creation but is heavily inspired by designs from other public projects and companies. Notable inspirations include:
 
-- **[US Graphics Company](https://usgraphicscompany.com/)**  
+- **[US Graphics Company](https://usgraphics.com/)**  
   My site's layout and design philosophy were significantly influenced by the minimalist and functional aesthetics of the US Graphics Company.
   
 - **[Monospace Web Project](https://owickstrom.github.io/the-monospace-web/)**  
