@@ -1,0 +1,128 @@
+body {
+    font-family: 'Doto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f3f3f3;
+    color: #333;
+  }
+  
+  .outer-container {
+    width: 60%;
+    margin: 20px auto;
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .navbar .name {
+    font-size: 1.8em;
+    font-weight: bold;
+    color: black
+  }
+
+  .navbar nav button {
+    display: inline-flex; 
+    align-items: center; 
+    justify-content: center;
+    border: 2px solid rgb(122, 118, 118); 
+    padding: 5px 15px; 
+    background-color: white; 
+    font-family: 'Doto', sans-serif;
+    font-size: 16px; 
+    color: black; 
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3); 
+    cursor: pointer; 
+    position: relative; 
+  }
+  
+  .navbar nav button:hover {
+    background: #e0e0e0;
+  }
+  
+  .content {
+    display: flex;
+    margin-top: 20px;
+  }
+  
+  .main-content {
+    flex: 3;
+    padding: 20px;
+  }
+  
+  .main-content img {
+    display: block; 
+    margin: 0 auto; 
+  }
+  
+  .quote {
+    font-style: italic;
+    color: #666;
+    text-align : center;
+  }
+  
+  .skills {
+    flex: 2;
+    padding: 20px;
+    background: #f9f9f9;
+    border-left: 1px solid #ccc;
+  }
+  
+  .skills h2 {
+    margin-top: 0;
+  }
+  
+  .skills ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .skills li {
+    margin-bottom: 10px;
+  }
+  
+  .frontpage-banner {
+    border-top: 1px solid #ccc;
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .cta-button-LI {
+    display: inline-flex; 
+    align-items: center; 
+    justify-content: center;
+    border: 2px solid rgb(122, 118, 118); 
+    padding: 5px 15px; 
+    background-color: #3687c9; 
+    font-family: 'Doto', sans-serif;
+    font-size: 16px; 
+    color: black; 
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3); 
+    cursor: pointer; 
+    position: relative; 
+  }
+
+  .cta-button-GH {
+    display: inline-flex; 
+    align-items: center; 
+    justify-content: center;
+    border: 2px solid rgb(122, 118, 118); 
+    padding: 5px 15px; 
+    background-color: #8ae6c0; 
+    font-family: 'Doto', sans-serif;
+    font-size: 16px; 
+    color: black; 
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3); 
+    cursor: pointer; 
+    position: relative; 
+  }
+  
